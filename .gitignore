@@ -10,5 +10,5 @@ venv/
 *.pdf
 *.json
 __pycache__/
-Backups_MoySklad/
+backup/
 202*/
