@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 TOKEN = os.getenv("MOYSKLAD_TOKEN")
-SAVE_DIR = r"C:\WORKSPACE\moyskald_backup\backup"
+SAVE_DIR = os.getenv("BACKUP_DIST")
 TEMPLATES_TO_EXPORT = ["check", "check NL", "upd"]
 
 if not TOKEN:
