@@ -1,0 +1,66 @@
+=== СПИСОК ВСЕХ ШАБЛОНОВ ИЗ МОЙСКЛАД ===
+
+----------------------------------------
+СУЩНОСТЬ: DEMAND
+----------------------------------------
+Имя: 'Коды маркировки: тег 1162' | Категория: embeddedtemplate | Тип: 'embeddedtemplate'
+Href: https://api.moysklad.ru/api/remap/1.2/entity/demand/metadata/embeddedtemplate/d24a1cc6-568b-47d0-ac92-0297d3763e91
+
+Имя: 'upd' | Категория: customtemplate | Тип: 'customtemplate'
+Href: https://api.moysklad.ru/api/remap/1.2/entity/demand/metadata/customtemplate/803f6575-0a45-4125-85af-1c8cffc84eab
+
+Имя: 'check' | Категория: customtemplate | Тип: 'customtemplate'
+Href: https://api.moysklad.ru/api/remap/1.2/entity/demand/metadata/customtemplate/9db6d9a3-8944-4ec9-b760-6bdf04bcdaa3
+
+Имя: 'check NL' | Категория: customtemplate | Тип: 'customtemplate'
+Href: https://api.moysklad.ru/api/remap/1.2/entity/demand/metadata/customtemplate/c7995d1f-e403-4d73-a85d-4e3bcd4a07e6
+
+Имя: 'Для Алены' | Категория: customtemplate | Тип: 'customtemplate'
+Href: https://api.moysklad.ru/api/remap/1.2/entity/demand/metadata/customtemplate/5c3e6919-026c-4ca0-b27b-34dd1d18dbf7
+
+
+----------------------------------------
+СУЩНОСТЬ: CUSTOMERORDER
+----------------------------------------
+Имя: 'check' | Категория: customtemplate | Тип: 'customtemplate'
+Href: https://api.moysklad.ru/api/remap/1.2/entity/customerorder/metadata/customtemplate/69395ef1-10ab-413e-bbe3-4c2a3ee52158
+
+Имя: 'check NL' | Категория: customtemplate | Тип: 'customtemplate'
+Href: https://api.moysklad.ru/api/remap/1.2/entity/customerorder/metadata/customtemplate/0a19954a-fd1a-40fb-bc31-997c5bf163ad
+
+
+----------------------------------------
+СУЩНОСТЬ: RETAILDEMAND
+----------------------------------------
+[embeddedtemplate] Ошибка (код 403)
+[customtemplate] Ошибка (код 403)
+Шаблоны не найдены.
+
+----------------------------------------
+СУЩНОСТЬ: SALESRETURN
+----------------------------------------
+[embeddedtemplate] Ошибка (код 403)
+[customtemplate] Ошибка (код 403)
+Шаблоны не найдены.
+
+----------------------------------------
+СУЩНОСТЬ: FACTUREIN
+----------------------------------------
+[embeddedtemplate] Ошибка (код 403)
+[customtemplate] Ошибка (код 403)
+Шаблоны не найдены.
+
+----------------------------------------
+СУЩНОСТЬ: FACTUREOUT
+----------------------------------------
+[embeddedtemplate] Ошибка (код 403)
+[customtemplate] Ошибка (код 403)
+Шаблоны не найдены.
+
+----------------------------------------
+СУЩНОСТЬ: INVOICEOUT
+----------------------------------------
+Имя: 'invoice-qr-stamp-sign' | Категория: customtemplate | Тип: 'customtemplate'
+Href: https://api.moysklad.ru/api/remap/1.2/entity/invoiceout/metadata/customtemplate/6861312a-dea4-41dd-bb6a-074dbb808d19
+
+
